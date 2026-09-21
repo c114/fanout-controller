@@ -1,3 +1,0 @@
-module fanout-controller
-
-go 1.24
